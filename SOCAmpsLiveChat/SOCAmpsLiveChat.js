@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import ChatBubble from './SOCAmpsChat/SOCAmpsIcon';
 import Chat from './SOCAmpsChat/SOCAmpsChat';
 
-const chatIcon = require('../assets/chat.png');
+const chatIcon = require('../assets/socamps_chat.png');
 const { height, width } = Dimensions.get('window');
 
 export default class SOCAmpsLiveChat extends Component {
