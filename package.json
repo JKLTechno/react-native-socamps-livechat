@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/JKLTechno/react-native-socamps-livechat/issues"
   },
-  "homepage": "https://github.com/JKLTechno/react-native-socamps-livechat#readme"
+  "homepage": "https://github.com/JKLTechno/react-native-socamps-livechat#readme",
+  "dependencies": {
+    "react-native-animatable": "^1.2.4",
+    "react-native-gifted-chat": "^0.4.3",
+    "react-native-movable-view": "^1.0.3"
+  }
 }
