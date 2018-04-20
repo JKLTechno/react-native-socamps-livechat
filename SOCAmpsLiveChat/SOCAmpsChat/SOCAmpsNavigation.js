@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { View, Dimensions, Text, StyleSheet, Image, TouchableOpacity, Platform } from 'react-native';
 import PropTypes from 'prop-types';
 
-const backImage = require('../../../assets/socamps_ic_back.png');
+const backImage = require('../../assets/socamps_ic_back.png');
 
 const { height, width } = Dimensions.get('window');
 const totalSize = num => (Math.sqrt((height * height) + (width * width)) * num) / 100;
