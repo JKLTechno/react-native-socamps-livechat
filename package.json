@@ -1,0 +1,26 @@
+{
+  "name": "react-native-socamps-livechat",
+  "version": "0.0.1",
+  "description": "Smarter Conversations, Enjoy instant Conversation and Instant User Engagement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKLTechno/react-native-socamps-livechat.git"
+  },
+  "keywords": [
+    "socamps-livechat",
+    "livechat",
+    "chat",
+    "socamps",
+    "jkl-livechat"
+  ],
+  "author": "dhanapal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JKLTechno/react-native-socamps-livechat/issues"
+  },
+  "homepage": "https://github.com/JKLTechno/react-native-socamps-livechat#readme"
+}
